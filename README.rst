@@ -42,6 +42,7 @@ The validator at http://icalvalid.cloudapp.net/ was very useful.
 
 The information is straight from the festival website at:
 http://www.worldfilmbkk.com/theprograms_sections.php?showdate=17.11.12
+and following pages.
 
 It was scraped on 2012-11-17, and will not reflect any subsequent updates.
 
