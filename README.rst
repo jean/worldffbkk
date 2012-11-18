@@ -5,10 +5,11 @@ The schedule is available online, but only as HTML pages or as a PDF with no
 extractable text. 
 
 In the hope that this may encourage organizers to provide one, and encourage
-more people to ask for online calendars for events like this, I knocked one
-together quickly. It can use improvement: I could have parsed more
-information out of the HTML pages, and I need to figure out how to relate
-multiple screenings of the same movie.
+more people to ask for online calendars for events like this, I 
+quickly knocked together a `public Google Calendar for the WFFBKK`_. It can
+use improvement: I could have parsed more information out of the HTML pages,
+and I need to figure out how to relate multiple screenings of the same
+movie.
 
 I used the icalendar_ module to write the calendar file, and tried out
 wwwclient_ for the first time as scraping library. Both worked fine, 
@@ -53,3 +54,4 @@ Dependencies
 .. _icalendar: http://pypi.python.org/pypi/icalendar
 .. _wwwclient: https://github.com/sebastien/wwwclient
 .. _ipython:   http://ipython.org/
+.. _public Google Calendar for the WFFBKK: https://www.google.com/calendar/embed?src=n52vt7674mp96g660t9sacmul8%40group.calendar.google.com&ctz=Asia/Bangkok
